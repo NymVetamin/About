@@ -5,6 +5,5 @@
   <li>📝Basically I make telegram bots, </li>
   <li>🏔️Always ready to conquer new horizons</li>
 </ul>
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/NymVetamin)
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=NymVetamin&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-![](https://komarev.com/ghpvc/?username=NymVetamin)
+![image](https://www.codewars.com/users/NymVetamin/badges/large)
+
